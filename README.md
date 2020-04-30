@@ -3,8 +3,8 @@
 SQL solutions for 18 Queries, performed on the Company Database.
 
 ## Content:
-- List of 18 Queries
-- 26 Solutions in SQL
+- List of ***18 Queries***
+- ***26 Solutions*** in SQL
 
 ## Technologies:
 - SQL
